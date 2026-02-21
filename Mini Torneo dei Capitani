@@ -1,6 +1,6 @@
 {
-	"Name": "Mini Torneo dei Capitani",
-	"Version": 1771248148,
+	"Name": "",
+	"Version": 1771665418,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -314,6 +314,7 @@
 				"246",
 				"273",
 				"34",
+				"36",
 				"38",
 				"39",
 				"279",
@@ -1626,10 +1627,12 @@
 				"4"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
