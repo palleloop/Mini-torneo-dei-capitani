@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1771977313,
+	"Version": 1772468085,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -148,6 +148,10 @@
 				[
 					"38",
 					"80"
+				],
+				[
+					"67",
+					"58"
 				]
 			],
 			"KillerComboPerkBans": [
